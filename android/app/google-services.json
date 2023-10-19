@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568957344274",
+    "project_id": "testagriapp",
+    "storage_bucket": "testagriapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568957344274:android:8fdcb4d2d17aa5121fd6cb",
+        "android_client_info": {
+          "package_name": "com.example.testagriapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuI836OZCaqHG6T_FIMxhJ2aC73ykCZJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
